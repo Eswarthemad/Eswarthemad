@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Terraform & Python
 - 💞️ I’m looking to collaborate on ... AI Projects, Data Science projects, Terraform Projects & Python PRojects
 - 📫 How to reach me ...here, or email, or in Kaggle
-- 😄 Pronouns: ...Eswar, ER, EtM!!
+- 😄 Pronouns: ...Eswar the MAD!!, EtM!!, Eswar, Eswar Raman
 - ⚡ Fun fact: ...I was born in early 1970s
 
 <!---
